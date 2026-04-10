@@ -28,4 +28,4 @@ dist-ssr
 database.sqlite
 
 Backend/.env
-Backend/database.sqlite
+Backend/src/db/database.sqlite

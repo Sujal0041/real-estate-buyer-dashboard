@@ -26,3 +26,6 @@ dist-ssr
 #backend
 .env
 database.sqlite
+
+Backend/.env
+Backend/database.sqlite
